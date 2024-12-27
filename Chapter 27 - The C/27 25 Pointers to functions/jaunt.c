@@ -11,6 +11,7 @@ void draw(struct Shape1* p) {
 	case circle:
 		
 		printf("draw as circle.\n");
+
 		break;
 
 	default:
