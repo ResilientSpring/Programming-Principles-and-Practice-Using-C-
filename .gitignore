@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs
+/Chapter 27 - The C/.vs/Chapter 27 - The C
